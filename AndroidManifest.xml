@@ -22,14 +22,50 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:label="@string/SettingActivity" android:name="SettingActivity"></activity>
-        <activity android:label="@string/HelpActivity" android:name="HelpActivity"></activity>
-        <activity android:label="@string/AboutActivity" android:name="AboutActivity"></activity>
-        <activity android:label="@string/LocationsActivity" android:name="LocationsActivity"></activity>
-        <activity android:label="@string/ProfessorsActivity" android:name="ProfessorsActivity"></activity>
-        <activity android:label="@string/ListItemsActivity" android:name="ListItemsActivity"></activity>
-        <activity android:label="@string/PresentationActivity" android:name="PresentationActivity"></activity>
-        <activity android:label="@string/MapActivity" android:name="MapActivity"></activity>
+        <activity
+            android:name="UniversityMainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="SettingActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="HelpActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="AboutActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="LocationsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ProfessorsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ListItemsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="PresentationActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="MapActivity"
+            android:label="@string/MapActivity">
+        </activity>
+        <activity
+            android:name="XMLParser"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="AndroidXMLParsingActivity"
+            android:label="@string/app_name" >
+        </activity>
     </application>
 
 </manifest>

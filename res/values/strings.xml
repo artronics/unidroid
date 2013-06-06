@@ -11,7 +11,7 @@
     <string name="ProfessorsActivity">ProfessorsActivity</string>
     <string name="ListItemsActivity">ListItemsActivity</string>
     <string name="PresentationActivity">PresentationActivity</string>
-	<string name="MapActivity">MapActivity</string>
+	<string name="MapActivity">Map</string>
 	<string name="strBolognaUniversity">University of Bologna</string>
 	<string name="strMilanUniversity">University of Milan</string>
 	<string name="strLocations">Locations</string>
@@ -23,5 +23,9 @@
 	<string name="strMenuSetting">Setting</string>
 	<string name="strMenuHelp">Help</string>
 	<string name="strMenuAbout">About</string>
-    
+	<string name="UniversityMainActivity">UniversityMainActivity</string>
+	<string name="btnoffice">Office</string>
+	<string name="AndroidXMLParsingActivity">AndroidXMLParsingActivity</string>
+	<string name="XMLParser">XMLParser</string>
+    <string name="parsed_data">Here is the Professor Information&#8230;</string>
 </resources>

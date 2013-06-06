@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="professor">
+        <item>Testiano Testi</item>
+        <item>Giovanni Corazza</item>
+        <item>Massimo Neri</item>
+        <item>Alessandro Vanelli</item>
+    </string-array>
+    <string-array name="location">
+        <item>library</item>
+        <item>labs</item>
+        <item>classes</item>
+    </string-array>
+    <string-array name="labs">
+        <item>lab1</item>
+        <item>lab2</item>
+        <item>lab3</item>
+    </string-array>
+    <string-array name="Classes">
+        <item>class1</item>
+        <item>class2</item>
+    </string-array>
+    <string-array name="library">
+        <item>Main Library</item>
+    </string-array>
+    <string-array name="universitydesc">
+        <item>University of Bologna</item>
+        <item>University of Milan</item>
+        <item>University of Torino</item>
+    </string-array>
+
+</resources>

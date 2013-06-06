@@ -14,7 +14,7 @@ public class MainActivity extends BaseActivity {
 
 	
 	public void callLocationsActivity(View view){
-		Intent intent=new Intent(this,LocationsActivity.class);
+		Intent intent=new Intent(this,UniversityMainActivity.class);
 		startActivity(intent);
 		
 	}
